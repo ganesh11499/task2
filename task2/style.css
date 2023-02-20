@@ -1,0 +1,46 @@
+.row{
+    font-family: 'Roboto', sans-serif;
+    margin-top:5% ;
+    display: flex;
+}
+.col-1 {
+    width: 50%;
+}
+.col-2 {
+    width: 50%;
+} 
+
+.img {
+    width: 80%;
+    height: 440px;
+}
+.demo {
+    width: 70%;
+    
+}
+.icons {
+    display: flex;
+    margin-top: 60px;
+    
+}
+.icon-1{
+    line-height: 1;
+    margin-right: 10px;
+    width: 50%;
+   
+}
+.icon-2{
+     line-height: 1;
+    margin-left: 10px;
+    width: 50%;
+}
+.material-symbols-outlined {
+    color: blueviolet;
+    
+}
+h1 {
+    letter-spacing: -1px;
+}
+p,h3 {
+    text-align: justify;
+}
